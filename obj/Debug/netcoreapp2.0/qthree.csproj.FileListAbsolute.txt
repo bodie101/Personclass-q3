@@ -1,0 +1,10 @@
+/Users/bodiekeys/Desktop/qthree/bin/Debug/netcoreapp2.0/qthree.deps.json
+/Users/bodiekeys/Desktop/qthree/bin/Debug/netcoreapp2.0/qthree.runtimeconfig.json
+/Users/bodiekeys/Desktop/qthree/bin/Debug/netcoreapp2.0/qthree.runtimeconfig.dev.json
+/Users/bodiekeys/Desktop/qthree/bin/Debug/netcoreapp2.0/qthree.dll
+/Users/bodiekeys/Desktop/qthree/bin/Debug/netcoreapp2.0/qthree.pdb
+/Users/bodiekeys/Desktop/qthree/obj/Debug/netcoreapp2.0/qthree.csproj.CoreCompileInputs.cache
+/Users/bodiekeys/Desktop/qthree/obj/Debug/netcoreapp2.0/qthree.AssemblyInfoInputs.cache
+/Users/bodiekeys/Desktop/qthree/obj/Debug/netcoreapp2.0/qthree.AssemblyInfo.cs
+/Users/bodiekeys/Desktop/qthree/obj/Debug/netcoreapp2.0/qthree.dll
+/Users/bodiekeys/Desktop/qthree/obj/Debug/netcoreapp2.0/qthree.pdb
