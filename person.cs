@@ -31,6 +31,6 @@ namespace qthree
             public string PersonInfo()
             {
                 return $"Person: {GetFullName()} is {GetAge()} years old"; 
-            }
+            } 
+        }
     }
-}
